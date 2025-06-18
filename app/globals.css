@@ -25,31 +25,7 @@
 body {
   background: var(--background);
   color: var(--soft);
-
-  p {
-    color: var(--foreground);
-  }
 }
-
-.bright {
-  color: var(--bright);
-}
-
-.primary {
-  color: var(--primary);
-}
-.eric-soft {
-  color: var(--soft);
-}
-.specialization {
-
-  ul {
-    li {
-      font-size: large;
-    }
-  }
-}
-
 
 .navigation {
   border-bottom: 1px solid;
@@ -58,12 +34,6 @@ body {
   div {
     color: var(--bright);
     font-weight: bold;
-  }
-}
-
-.about-me {
-  h3 {
-    margin-bottom: 30px;
   }
 }
 

@@ -31,7 +31,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${montserrat.className} antialiased w-[100%] max-w-6xl m-[5%] md:m-auto`}
+        className={`${montserrat.className} antialiased w-[100%] max-w-6xl p-[5%] md:m-auto lg:p-5`}
       >
         <Navigation />
         {children}
